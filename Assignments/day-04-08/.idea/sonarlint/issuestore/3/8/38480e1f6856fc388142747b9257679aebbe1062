@@ -1,0 +1,28 @@
+
+G
+java:S1874.",Remove this use of "Date"; it is deprecated.(ãÈıÿÿÿÿÿ
+G
+java:S1874O",Remove this use of "Date"; it is deprecated.(‡³ÕÑıÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(÷»Êÿùÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(ÏÙö¤øÿÿÿÿ
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(ŞÑÉÌ
+c
+java:S1192"HDefine a constant instead of duplicating this literal "country" 6 times.(Š„òßùÿÿÿÿ
+`
+java:S1192}"JDefine a constant instead of duplicating this literal "firstname" 6 times.(•ÜÅî
+e
+java:S1192"JDefine a constant instead of duplicating this literal "birthdate" 6 times.(Š„òßùÿÿÿÿ
+]
+java:S1192}"GDefine a constant instead of duplicating this literal "gender" 6 times.(•ÜÅî
+a
+java:S1192~"FDefine a constant instead of duplicating this literal "state" 6 times.(ˆ‹‹üøÿÿÿÿ
+\
+java:S1192}"FDefine a constant instead of duplicating this literal "email" 6 times.(•ÜÅî
+c
+java:S1192~"HDefine a constant instead of duplicating this literal "pincode" 6 times.(ˆ‹‹üøÿÿÿÿ
+c
+java:S1192~"HDefine a constant instead of duplicating this literal "address" 6 times.(ˆ‹‹üøÿÿÿÿ
+_
+java:S1192}"IDefine a constant instead of duplicating this literal "lastname" 6 times.(•ÜÅî
+a
+java:S1192~"FDefine a constant instead of duplicating this literal "phone" 6 times.(ˆ‹‹üøÿÿÿÿ

@@ -1,0 +1,115 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°ú¹Ìüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ïÚâÀşÿÿÿÿ
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(¯¡µl
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(æ»ÕÓüÿÿÿÿ
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(éßà=
+N	java:S106("9Replace this use of System.out or System.err by a logger.(³Ùÿ×
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Êø´ıøÿÿÿÿ
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(ÁÓ‹
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(éÔŸ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(û‚ƒ
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(‹ĞD
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(àÜ‘°üÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(àÜ‘°üÿÿÿÿ
+“
+java:S1130="qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(Ú¦·æúÿÿÿÿ8Œ¬‹ßÂ/
+7	java:S131C""Add a default case to this switch.(¨ÕÉ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(’²ÿ­ûÿÿÿÿ
+T
+java:S1854t"7Remove this useless assignment to local variable "gen".(â°Ãã8¬‹ßÂ/
+T
+java:S1854v"7Remove this useless assignment to local variable "gen".(¾ıÄÀ8¬‹ßÂ/
+T
+java:S1854y"7Remove this useless assignment to local variable "gen".(°–‘Á8‘¬‹ßÂ/
+E
+java:S1481t"(Remove this unused "gen" local variable.(â°Ãã8“¬‹ßÂ/
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(÷»Êÿùÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(ÚÛ¡ñıÿÿÿÿ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(üƒÒÔ
+m
+java:S3457›"Q%n should be used in place of \n to produce the platform-specific line separator.(’††‚ıÿÿÿÿ
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(’††‚ıÿÿÿÿ
+t
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(˜¶õøşÿÿÿÿ8˜¬‹ßÂ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(˜¶õøşÿÿÿÿ
+O	java:S106¢"9Replace this use of System.out or System.err by a logger.(Ó™îô
+m
+java:S3457¬"Q%n should be used in place of \n to produce the platform-specific line separator.(’††‚ıÿÿÿÿ
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(’††‚ıÿÿÿÿ
+t
+java:S3457¯"Q%n should be used in place of \n to produce the platform-specific line separator.(˜¶õøşÿÿÿÿ8›¬‹ßÂ/
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(˜¶õøşÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(¹±Êşÿÿÿÿ
+m
+java:S3457½"Q%n should be used in place of \n to produce the platform-specific line separator.(’††‚ıÿÿÿÿ
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(’††‚ıÿÿÿÿ
+t
+java:S3457¿"Q%n should be used in place of \n to produce the platform-specific line separator.(˜¶õøşÿÿÿÿ8¬‹ßÂ/
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(˜¶õøşÿÿÿÿ
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+m
+java:S3457Ë"Q%n should be used in place of \n to produce the platform-specific line separator.(’††‚ıÿÿÿÿ
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(’††‚ıÿÿÿÿ
+t
+java:S3457Í"Q%n should be used in place of \n to produce the platform-specific line separator.(˜¶õøşÿÿÿÿ8¡¬‹ßÂ/
+T	java:S106Í"9Replace this use of System.out or System.err by a logger.(˜¶õøşÿÿÿÿ
+T	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+m
+java:S3457Ù"Q%n should be used in place of \n to produce the platform-specific line separator.(’††‚ıÿÿÿÿ
+T	java:S106Ù"9Replace this use of System.out or System.err by a logger.(’††‚ıÿÿÿÿ
+t
+java:S3457Ü"Q%n should be used in place of \n to produce the platform-specific line separator.(˜¶õøşÿÿÿÿ8¥¬‹ßÂ/
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(˜¶õøşÿÿÿÿ
+O	java:S106à"9Replace this use of System.out or System.err by a logger.(Øœ›Š
+U
+java:S1854ë"7Remove this useless assignment to local variable "gen".(â°Ãã8õ¬ßÂ/
+U
+java:S1854í"7Remove this useless assignment to local variable "gen".(¾ıÄÀ8ö¬ßÂ/
+U
+java:S1854ğ"7Remove this useless assignment to local variable "gen".(°–‘Á8÷¬ßÂ/
+F
+java:S1481ë"(Remove this unused "gen" local variable.(â°Ãã8ø¬ßÂ/
+O	java:S106ü"9Replace this use of System.out or System.err by a logger.(ªÏâ®
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(ÚÛ¡ñıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+m
+java:S3457‰"Q%n should be used in place of \n to produce the platform-specific line separator.(’††‚ıÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(’††‚ıÿÿÿÿ
+t
+java:S3457Œ"Q%n should be used in place of \n to produce the platform-specific line separator.(˜¶õøşÿÿÿÿ8«¬‹ßÂ/
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(˜¶õøşÿÿÿÿ
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Èîâ8€º¤èÂ/
+b
+java:S1192›"FDefine a constant instead of duplicating this literal "Email" 6 times.(’††‚ıÿÿÿÿ
+d
+java:S1192›"HDefine a constant instead of duplicating this literal "Address" 6 times.(’††‚ıÿÿÿÿ
+g
+java:S1192›"KDefine a constant instead of duplicating this literal "First Name" 6 times.(’††‚ıÿÿÿÿ
+c
+java:S1192›"GDefine a constant instead of duplicating this literal "Gender" 6 times.(’††‚ıÿÿÿÿ
+b
+java:S1192›"FDefine a constant instead of duplicating this literal "State" 6 times.(’††‚ıÿÿÿÿ
+d
+java:S1192›"HDefine a constant instead of duplicating this literal "Country" 6 times.(’††‚ıÿÿÿÿ
+e
+java:S1192›"IDefine a constant instead of duplicating this literal "Pin Code" 6 times.(’††‚ıÿÿÿÿ
+f
+java:S1192›"JDefine a constant instead of duplicating this literal "Last Name" 6 times.(’††‚ıÿÿÿÿ
+h
+java:S1192~"MDefine a constant instead of duplicating this literal "Enter city: " 3 times.(Ÿ¼Ë ûÿÿÿÿ
+¦
+java:S1192›"‰Define a constant instead of duplicating this literal "%-10s %-15s %-15s %-10s %-35s %-20s %-20s %-20s %-20s %-20s %-20s %10s
+" 12 times.(’††‚ıÿÿÿÿ
+g
+java:S1192›"KDefine a constant instead of duplicating this literal "Birth Date" 6 times.(’††‚ıÿÿÿÿ
+d
+java:S1192{"NDefine a constant instead of duplicating this literal "Enter email: " 3 times.(‘à˜š
+l
+java:S1192r"QDefine a constant instead of duplicating this literal "Enter lastname: " 3 times.(ŸşÈøÿÿÿÿ
+p
+java:S1192|"UDefine a constant instead of duplicating this literal "Enter phone number: " 3 times.(«ôÊâùÿÿÿÿ
+i
+java:S1192›"MDefine a constant instead of duplicating this literal "Phone Number" 6 times.(’††‚ıÿÿÿÿ

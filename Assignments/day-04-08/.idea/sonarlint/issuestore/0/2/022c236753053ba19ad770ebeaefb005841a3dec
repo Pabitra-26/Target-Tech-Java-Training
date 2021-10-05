@@ -1,0 +1,13 @@
+
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ŠãÆüøÿÿÿÿ8Ê·Ç­Ä/
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(Ò­›ñ8Ë·Ç­Ä/
+g
+java:S1192"JDefine a constant instead of duplicating this literal "Bangalore" 5 times.(¾§¾–8×·Ç­Ä/
+j
+java:S1192"MDefine a constant instead of duplicating this literal "Mystic Falls" 3 times.(—±Á²8×·Ç­Ä/
+g
+java:S1192"JDefine a constant instead of duplicating this literal "Karnataka" 5 times.(¾§¾–8×·Ç­Ä/
+c
+java:S1192"FDefine a constant instead of duplicating this literal "India" 5 times.(¾§¾–8Ø·Ç­Ä/
+h
+java:S1192"KDefine a constant instead of duplicating this literal "dd/MM/yyyy" 5 times.(¾§¾–8Ø·Ç­Ä/

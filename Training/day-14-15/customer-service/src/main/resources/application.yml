@@ -1,0 +1,31 @@
+server:
+  port: ${SERVER_PORT:8080}
+
+spring:
+  application:
+    name: PRODUCT-SERVICE
+  datasource:
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:${MYSQL_PORT:3306}/northwind
+    #url: jdbc:mysql://localhost/northwind
+    username: root
+    password: ${MYSQL_PASSWORD:Welcome#123}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+
+logging:
+  level:
+    org:
+      hibernate: INFO
+      springframework: DEBUG
+    com:
+      target: DEBUG
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "health, beans, info, env, metrics, httptrace, startup"

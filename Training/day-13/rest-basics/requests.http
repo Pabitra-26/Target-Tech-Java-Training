@@ -1,0 +1,25 @@
+GET /api/books
+Host: localhost:8080
+Accept: application/json
+###
+
+GET /api/books/98
+Host: localhost:8080
+Accept: application/json
+###
+
+GET /api/books/56
+Host: localhost:8080
+Accept: application/json
+###
+
+GET /api/books/202
+Host: localhost:8080
+Accept: application/json
+
+
+
+
+
+
+

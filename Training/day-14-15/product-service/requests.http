@@ -1,0 +1,91 @@
+GET /api/products/78
+Host: localhost:9090
+Accept: application/json
+###
+
+GET /api/products/78
+Host: localhost:9090
+Accept: text/plain
+###
+
+GET /api/products/78
+Host: localhost:9090
+Accept: application/xml
+###
+
+
+GET /api/products
+Host: localhost:9090
+Accept: application/json
+###
+
+GET /api/products?_page=3
+Host: localhost:9090
+Accept: application/json
+###
+
+GET /api/products?_page=3&_limit=15
+Host: localhost:9090
+Accept: application/json
+###
+
+GET /api/products/filter?discontinued=true
+Host: localhost:9090
+Accept: application/json
+###
+
+GET /api/products/filter?discontinued=false
+Host: localhost:9090
+Accept: application/json
+###
+
+GET /api/products/filter?min=100&max=1000
+Host: localhost:9090
+Accept: application/json
+###
+
+
+
+
+POST /api/products
+Host: localhost:9090
+Accept: application/json
+Content-Type: application/json
+
+{
+    "supplierId": 1,
+    "categoryId": 1,
+    "productName": "Vanilla Milkshake",
+    "quantityPerUnit": "10 boxes x 20 tetrapacks",
+    "unitPrice": 2.5,
+    "unitsInStock": 20,
+    "unitsOnOrder": 0,
+    "reorderLevel": 5,
+    "discontinued": 0
+}
+
+###
+
+PUT /api/products/78
+Host: localhost:9090
+Accept: application/json
+Content-Type: application/json
+
+{
+    "productId": 55,
+    "supplierId": 1,
+    "categoryId": 1,
+    "productName": "Vanilla Milkshake",
+    "quantityPerUnit": "10 boxes x 20 tetrapacks",
+    "unitPrice": 3.5,
+    "unitsInStock": 12,
+    "unitsOnOrder": 2,
+    "reorderLevel": 5,
+    "discontinued": 0
+}
+
+###
+
+DELETE /api/products/78
+Host: localhost:9090
+Accept: application/json

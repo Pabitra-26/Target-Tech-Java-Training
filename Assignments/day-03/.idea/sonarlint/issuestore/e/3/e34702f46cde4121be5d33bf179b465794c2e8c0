@@ -1,0 +1,26 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘
+Q
+java:S1854"6Remove this useless assignment to local variable "sc".(ðÛ²¸øÿÿÿÿ
+B
+java:S1481"'Remove this unused "sc" local variable.(ðÛ²¸øÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(»¶ôÑþÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(øþä™ûÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(ÒûÆ¼
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(úõÙò
+7
+java:S1643""Use a StringBuilder instead.(°—¼½ÿÿÿÿÿ
+7
+java:S1643$"Use a StringBuilder instead.(‹–µñþÿÿÿÿ
+2
+java:S1643,"Use a StringBuilder instead.(¶‘¢Å
+7
+java:S1643."Use a StringBuilder instead.(Êñçûúÿÿÿÿ
+7
+java:S16436"Use a StringBuilder instead.(ŒÜÐíøÿÿÿÿ
+2
+java:S16438"Use a StringBuilder instead.(¿ÿ»æ

@@ -1,0 +1,21 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(яоуХ
+E
+java:S1905"/Remove this unnecessary cast to "MovablePoint".(яоуХ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(яоуХ
+E
+java:S1905
+"/Remove this unnecessary cast to "MovablePoint".(яоуХ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Т‰еШ
+F
+java:S1905"0Remove this unnecessary cast to "MovableCircle".(Т‰еШ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Т‰еШ
+F
+java:S1905"0Remove this unnecessary cast to "MovableCircle".(Т‰еШ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(їЋХцшяяяя
+N
+java:S1905"3Remove this unnecessary cast to "MovableRectangle".(їЋХцшяяяя
+S	java:S106"9Replace this use of System.out or System.err by a logger.(їЋХцшяяяя
+N
+java:S1905"3Remove this unnecessary cast to "MovableRectangle".(їЋХцшяяяя

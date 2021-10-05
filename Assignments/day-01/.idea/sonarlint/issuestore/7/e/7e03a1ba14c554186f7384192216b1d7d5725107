@@ -1,0 +1,14 @@
+
+?
+java:S1659	"$Declare "second" on a separate line.(â¾‡¯ýÿÿÿÿ
+>
+java:S1659	"#Declare "third" on a separate line.(â¾‡¯ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½¡¹€ýÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(½¡¹€ýÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(½¡¹€ýÿÿÿÿ
+:
+java:S16595"Declare "b" on a separate line.(ë³ ¹øÿÿÿÿ
+:
+java:S16595"Declare "c" on a separate line.(ë³ ¹øÿÿÿÿ
+m
+java:S1192"RDefine a constant instead of duplicating this literal "Ascending order: " 3 times.(½¡¹€ýÿÿÿÿ

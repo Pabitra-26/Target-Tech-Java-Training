@@ -1,0 +1,10 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(é‘Şøúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(é‘Şøúÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÿ£¬½şÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(»³«üÿÿÿÿ
+M	java:S1060"9Replace this use of System.out or System.err by a logger.(Ÿ£Ü:
+j
+java:S1192*"ODefine a constant instead of duplicating this literal " respectively." 3 times.(ÿ£¬½şÿÿÿÿ
+a
+java:S1192*"FDefine a constant instead of duplicating this literal " and " 3 times.(ÿ£¬½şÿÿÿÿ

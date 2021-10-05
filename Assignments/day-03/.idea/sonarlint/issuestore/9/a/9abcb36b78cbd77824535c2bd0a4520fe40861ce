@@ -1,0 +1,28 @@
+
+n
+java:S1450"SRemove the "date" field and declare it as a local variable in the relevant methods.(°‡è›üÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(îèÚõúÿÿÿÿ
+m
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(÷Û€øúÿÿÿÿ
+X
+java:S18547"=Remove this useless assignment to local variable "onesDigit".(—Ëûıÿÿÿÿ
+Z
+java:S18544"?Remove this useless assignment to local variable "monthNumber".(°şíùşÿÿÿÿ
+U
+java:S1854"9Remove this useless assignment to local variable "nDays".(ÏĞÖ©ÿÿÿÿÿ
+K
+java:S14814"0Remove this unused "monthNumber" local variable.(°şíùşÿÿÿÿ
+I
+java:S14817".Remove this unused "onesDigit" local variable.(—Ëûıÿÿÿÿ
+V	java:S1258"<This block of commented-out lines of code should be removed.(Íş–Éùÿÿÿÿ
+Q	java:S125:"<This block of commented-out lines of code should be removed.(æòÀõ
+<	java:S131>""Add a default case to this switch.(¹Ë”Óùÿÿÿÿ
+Q	java:S125w"<This block of commented-out lines of code should be removed.(Ôªïš
+W	java:S125"<This block of commented-out lines of code should be removed.(µÜ¤Œÿÿÿÿÿ
+=
+java:S1125˜"'Remove the unnecessary boolean literal.(–3
+W	java:S125®"<This block of commented-out lines of code should be removed.(ŠÅŠšüÿÿÿÿ
+C
+java:S1068"(Remove this unused "date" private field.(°‡è›üÿÿÿÿ
+~
+java:S4165)"hRemove this useless assignment; "isLeapYear" already holds the assigned value along all execution paths.(ÛÌïß

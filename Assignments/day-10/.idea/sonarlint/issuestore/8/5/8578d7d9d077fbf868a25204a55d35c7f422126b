@@ -1,0 +1,21 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ıäµ¸8ÉÒÙçÂ/
+X	java:S125-"<This block of commented-out lines of code should be removed.(ıäµ¸8°öñçÂ/
+X	java:S125<"<This block of commented-out lines of code should be removed.(ıäµ¸8İ’òçÂ/
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(î›î¾8ñ®«èÂ/
+X	java:S125K"<This block of commented-out lines of code should be removed.(ıäµ¸8º­òçÂ/
+X	java:S125Y"<This block of commented-out lines of code should be removed.(ıäµ¸8ºÖòçÂ/
+X	java:S125e"<This block of commented-out lines of code should be removed.(ıäµ¸8»ÖòçÂ/
+X	java:S125q"<This block of commented-out lines of code should be removed.(ıäµ¸8ÇéòçÂ/
+X	java:S125}"<This block of commented-out lines of code should be removed.(ıäµ¸8â‚óçÂ/
+Y	java:S125’"<This block of commented-out lines of code should be removed.(ıäµ¸8£¶óçÂ/
+|
+java:S1488X"_Immediately return this expression instead of assigning it to the temporary variable "contact".(…÷ö”8¿ÖòçÂ/
+|
+java:S1488d"_Immediately return this expression instead of assigning it to the temporary variable "contact".(…÷ö”8¿ÖòçÂ/
+}
+java:S1488p"`Immediately return this expression instead of assigning it to the temporary variable "contacts".(Ûà›Ş8ÎéòçÂ/
+}
+java:S1488|"`Immediately return this expression instead of assigning it to the temporary variable "contacts".(Ûà›Ş8å‚óçÂ/
+~
+java:S1488‘"`Immediately return this expression instead of assigning it to the temporary variable "contacts".(Ûà›Ş8¤¶óçÂ/

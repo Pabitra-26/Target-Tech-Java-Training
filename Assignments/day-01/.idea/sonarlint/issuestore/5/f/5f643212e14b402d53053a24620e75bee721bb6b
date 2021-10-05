@@ -1,0 +1,13 @@
+
+h
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(š†Žâ
+>
+java:S16593"#Declare "month" on a separate line.(à´ºÅýÿÿÿÿ
+<
+java:S16593"!Declare "day" on a separate line.(à´ºÅýÿÿÿÿ
+<
+java:S1125:"'Remove the unnecessary boolean literal.(œ¥Ü,
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(˜Ÿß
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ß×öÏ
+~
+java:S4165"hRemove this useless assignment; "isLeapYear" already holds the assigned value along all execution paths.(ÛÌïß

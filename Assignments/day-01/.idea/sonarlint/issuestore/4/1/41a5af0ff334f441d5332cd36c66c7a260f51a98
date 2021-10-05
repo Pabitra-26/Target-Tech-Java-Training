@@ -1,0 +1,21 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(Æãœ©ýÿÿÿÿ
+X
+java:S1854Q"=Remove this useless assignment to local variable "onesDigit".(Ž—Ëûýÿÿÿÿ
+T
+java:S1854a"9Remove this useless assignment to local variable "nDays".(ÏÐÖ©ÿÿÿÿÿ
+<	java:S131""Add a default case to this switch.(¹Ë”Óùÿÿÿÿ
+I
+java:S1481Q".Remove this unused "onesDigit" local variable.(Ž—Ëûýÿÿÿÿ
+<
+java:S1125x"'Remove the unnecessary boolean literal.(–3
+N	java:S106Ž"9Replace this use of System.out or System.err by a logger.(ÌÒ©
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(ÛÝ¾Ó
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(¡£˜º
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(¡£˜º
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+Q
+java:S2209°"5Change this instance-reference to a static reference.(ÂÅ•£ÿÿÿÿÿ
+~
+java:S4165"hRemove this useless assignment; "isLeapYear" already holds the assigned value along all execution paths.(ÛÌïß
