@@ -1,0 +1,110 @@
+version: '3'
+
+services:
+    mysql8server:
+        container_name: mysql8server
+        ports:
+            - '3306:3306'
+            - '33060:33060'
+        environment:
+            - MYSQL_ROOT_PASSWORD=Welcome#123
+        volumes:
+            - 'mysql_data:/var/lib/mysql'
+
+        # restart: always
+        image: 'mysql:latest'
+
+    customer-service: # docker run
+        container_name: customer-service # --name=CUSTOMER_SERVICE
+        ports:
+            - '8080:8080' # -p 8080:8080
+        # restart: always
+        depends_on:
+            - mysql8server
+            - eureka-service
+        environment:
+            - MYSQL_HOST=mysql8server
+            - EUREKA_SERVER_HOST=eureka-service
+        image: 'customer-service:latest'
+
+    employee-service:
+        container_name: employee-service
+        ports:
+            - '8081:8081'
+        # restart: always
+        depends_on:
+            - mysql8server
+            - eureka-service
+        environment:
+            - MYSQL_HOST=mysql8server
+            - APP_PORT=8081
+            - EUREKA_SERVER_HOST=eureka-service
+        image: 'employee-service:latest'
+
+    product-service:
+        container_name: product-service
+        ports:
+            - '8082:8082'
+        # restart: always
+        depends_on:
+            - mysql8server
+            - eureka-service
+        environment:
+            - MYSQL_HOST=mysql8server
+            - APP_PORT=8082
+            - EUREKA_SERVER_HOST=eureka-service
+        image: 'product-service:latest'
+
+    shipper-service:
+        container_name: shipper-service
+        ports:
+            - '8084:8084'
+        # restart: always
+        depends_on:
+            - mysql8server
+            - eureka-service
+        environment:
+            - MYSQL_HOST=mysql8server
+            - APP_PORT=8084
+            - EUREKA_SERVER_HOST=eureka-service
+        image: 'shipper-service:latest'
+
+    order-service:
+        container_name: order-service
+        ports:
+            - '8085:8085'
+        # restart: always
+        depends_on:
+            - mysql8server
+            - eureka-service
+        environment:
+            - MYSQL_HOST=mysql8server
+            - APP_PORT=8085
+            - EUREKA_SERVER_HOST=eureka-service
+            - CUSTOMER_SERVICE_URL=customer-service  #service name
+            - CUSTOMER_SERVICE_PORT=8080
+        image: 'order-service:latest'
+
+
+    gateway-service:
+        container_name: gateway-service
+        ports:
+            - '5000:5000'
+        # restart: always
+        depends_on:
+            - eureka-service
+        environment:
+            - EUREKA_SERVER_HOST=eureka-service
+        image: 'gateway-service:latest'
+
+    eureka-service:
+        container_name: eureka-service
+        ports:
+            - '8761:8761'
+        # restart: always
+        image: 'eureka-service:latest'
+
+volumes:
+    mysql_data:
+        name: mysql_data
+        driver: local

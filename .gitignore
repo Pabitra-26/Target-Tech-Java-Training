@@ -42,10 +42,20 @@
 
 
 
-/Training/day-14-15/customer-service.zip
-/Training/day-14-15/employee-service.zip
-/Training/day-14-15/product-service.zip
-/Training/day-14-15/shipper-service.zip
+/Training/day-14-16/customer-service.zip
+/Training/day-14-16/customer-service/target
+
+/Training/day-14-16/employee-service.zip
+/Training/day-14-16/employee-service/target
+
+/Training/day-14-16/product-service.zip
+/Training/day-14-16/product-service/target
+
+/Training/day-14-16/shipper-service.zip
+/Training/day-14-16/shipper-service/target
+
+/Training/day-14-16/order-service.zip
+/Training/day-14-16/order-service/target
 
 
 
