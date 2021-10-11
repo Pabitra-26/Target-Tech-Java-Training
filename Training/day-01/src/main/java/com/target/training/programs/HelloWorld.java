@@ -10,7 +10,7 @@ public class HelloWorld {
     }
 
     static void welcome(){
-        log.debug("Welcome to Java Programming!");
+        log.debug("Welcome to Java Programming at Target!");
     }
 
     public static void main(String[] args) {
