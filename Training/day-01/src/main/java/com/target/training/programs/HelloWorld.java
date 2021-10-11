@@ -10,7 +10,7 @@ public class HelloWorld {
     }
 
     static void welcome(){
-        log.debug("Welcome to Java Programming at Target!");
+        log.debug("Welcome to Java Programming at Target Corporation!");
     }
 
     public static void main(String[] args) {
